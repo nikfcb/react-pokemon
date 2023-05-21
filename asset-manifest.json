@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-pokemon.git/static/css/main.53bcab0a.css",
-    "main.js": "/react-pokemon.git/static/js/main.be56972b.js",
-    "static/media/charlie.png": "/react-pokemon.git/static/media/charlie.7101349c92251f9c2a29.png",
-    "static/media/ash.png": "/react-pokemon.git/static/media/ash.a00509cab23c903a2b5d.png",
-    "static/media/birdie.png": "/react-pokemon.git/static/media/birdie.74d0144266dcbf636cdf.png",
-    "index.html": "/react-pokemon.git/index.html",
-    "main.53bcab0a.css.map": "/react-pokemon.git/static/css/main.53bcab0a.css.map",
-    "main.be56972b.js.map": "/react-pokemon.git/static/js/main.be56972b.js.map"
+    "main.css": "/react-pokemon/static/css/main.53bcab0a.css",
+    "main.js": "/react-pokemon/static/js/main.7b51381f.js",
+    "static/media/charlie.png": "/react-pokemon/static/media/charlie.7101349c92251f9c2a29.png",
+    "static/media/ash.png": "/react-pokemon/static/media/ash.a00509cab23c903a2b5d.png",
+    "static/media/birdie.png": "/react-pokemon/static/media/birdie.74d0144266dcbf636cdf.png",
+    "index.html": "/react-pokemon/index.html",
+    "main.53bcab0a.css.map": "/react-pokemon/static/css/main.53bcab0a.css.map",
+    "main.7b51381f.js.map": "/react-pokemon/static/js/main.7b51381f.js.map"
   },
   "entrypoints": [
     "static/css/main.53bcab0a.css",
-    "static/js/main.be56972b.js"
+    "static/js/main.7b51381f.js"
   ]
 }
